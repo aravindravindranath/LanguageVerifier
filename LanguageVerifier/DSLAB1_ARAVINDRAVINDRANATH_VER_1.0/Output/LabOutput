@@ -1,0 +1,30 @@
+AAABBB
+The string above is valid in the following languages:  L1 L2 L4
+AB
+The string above is valid in the following languages:  L1 L2 L4
+
+There are no valid languages which accepts the Empty string above
+ABABABA
+There are no valid languages which accepts the string above
+ABAB
+The string above is valid in the following languages:  L1 L4
+BBAA
+The string above is valid in the following languages:  L1 L7
+BBBAA
+There are no valid languages which accepts the string above
+AAB
+The string above is valid in the following languages:  L4
+AABBCCD
+There are no valid languages which accepts the string above
+ABCBA
+There are no valid languages which accepts the string above
+ABBBA
+There are no valid languages which accepts the string above
+ABBA
+The string above is valid in the following languages:  L1
+ABAABBAAABBB
+The string above is valid in the following languages:  L1
+AABACABAA
+There are no valid languages which accepts the string above
+AABBBAABBB
+The string above is valid in the following languages:  L4
